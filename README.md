@@ -51,7 +51,7 @@ endstep0-->
 <details id=1 open>
 <summary><h2>Step 1: Create a workflow file</h2></summary>
 
-_Welcome to "Hello GitHub Actions"! :wave:_
+_Welcome to "Hello GitHub Actions"! :wave::wave:_
 
 **What is _GitHub Actions_?**: GitHub Actions is a flexible way to automate nearly every aspect of your team's software workflow. You can automate testing, continuously deploy, review code, manage issues and pull requests, and much more. The best part, these workflows are stored as code in your repository and easily shared and reused across teams. To learn more, check out these resources:
 
